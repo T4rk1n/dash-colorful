@@ -1,0 +1,2 @@
+recursive-include dash_colorful/** *.js *.css *.json *.html
+prune tests
